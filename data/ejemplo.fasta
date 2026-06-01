@@ -1,0 +1,6 @@
+>gen_demo gen de ejemplo para la Unidad 2
+ATGCTAGCTAGCTAGCATGCGCGCTAGCTAGCTAGCTAA
+>gen_alto_gc ejemplo con alto contenido GC
+ATGGCGGCGGCCGGCGCGGCCGGCGCGGCGTAA
+>gen_bajo_gc ejemplo con bajo contenido GC
+ATGAATTAATTAAATAAATTTAATTAAATTTAA
